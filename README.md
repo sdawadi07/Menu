@@ -12,22 +12,13 @@ final bill based on their selections.
 - Handles invalid item names gracefully
 - Clean user interface through the console
 
-## Sample Menu
-Welcome to Nepali Thali
-View our menu
-
-Nepali Thali - $15
-Veg Momo - $10
-Chicken Momo - $13
-Thukpa - $10
-Chowmein - $12
 
 
 ## User Input Flow
 
 1. Enter the number of items you wish to order
 2. Enter item names one by one (e.g., `veg momo`, `chowmein`)
-3. Get the total bill printed at the end
+3. Get the total bill printed at the en
 
 ##  Technologies Used
 
@@ -41,19 +32,6 @@ Chowmein - $12
 1. Clone the repository or copy the code into your local IDE
 2. Compile and run the `Menu.java` file
 3. Follow on-screen instructions in the terminal
-
-
-## Example Output
-
-```
-Enter how many items you want to order: 3
-Enter item #1: nepali thali
-Enter item #2: veg momo
-Enter item #3: chowmein
-
-Total Bill: $37
-Thank you for visiting!
-```
 
 
 ## Future Improvements
